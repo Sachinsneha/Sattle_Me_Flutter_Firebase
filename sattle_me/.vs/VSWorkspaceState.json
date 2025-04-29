@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\features",
+    "\\lib\\features\\auth",
+    "\\lib\\features\\auth\\data",
+    "\\lib\\features\\auth\\data\\datasource",
+    "\\lib\\features\\auth\\domain",
+    "\\lib\\features\\auth\\presentation",
+    "\\lib\\features\\auth\\presentation\\bloc",
+    "\\lib\\features\\auth\\presentation\\screens"
+  ],
+  "SelectedNode": "\\lib\\features\\auth\\presentation\\screens\\singup_screen.dart",
+  "PreviewInSolutionExplorer": false
+}

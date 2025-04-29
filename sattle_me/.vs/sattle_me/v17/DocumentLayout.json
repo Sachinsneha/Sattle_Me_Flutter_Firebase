@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\myflutterprogram\\sattle_me\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\screens\\singup_screen.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\features\\auth\\presentation\\screens\\singup_screen.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_bloc.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\features\\auth\\presentation\\bloc\\auth_bloc.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_state.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\features\\auth\\presentation\\bloc\\auth_state.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_event.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\features\\auth\\presentation\\bloc\\auth_event.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\screens\\login_screen.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\features\\auth\\presentation\\screens\\login_screen.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\data\\datasource\\firebase_remote_datasource.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\features\\auth\\data\\datasource\\firebase_remote_datasource.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\lib\\firebase_options.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\firebase_options.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\firebase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:firebase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myflutterprogram\\sattle_me\\analysis_options.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:analysis_options.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "singup_screen.dart",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\screens\\singup_screen.dart",
+              "RelativeDocumentMoniker": "lib\\features\\auth\\presentation\\screens\\singup_screen.dart",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\screens\\singup_screen.dart*",
+              "RelativeToolTip": "lib\\features\\auth\\presentation\\screens\\singup_screen.dart*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T16:38:11.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auth_state.dart",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_state.dart",
+              "RelativeDocumentMoniker": "lib\\features\\auth\\presentation\\bloc\\auth_state.dart",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_state.dart",
+              "RelativeToolTip": "lib\\features\\auth\\presentation\\bloc\\auth_state.dart",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T16:37:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "auth_event.dart",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_event.dart",
+              "RelativeDocumentMoniker": "lib\\features\\auth\\presentation\\bloc\\auth_event.dart",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_event.dart",
+              "RelativeToolTip": "lib\\features\\auth\\presentation\\bloc\\auth_event.dart",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T16:37:35.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "auth_bloc.dart",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_bloc.dart",
+              "RelativeDocumentMoniker": "lib\\features\\auth\\presentation\\bloc\\auth_bloc.dart",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\bloc\\auth_bloc.dart",
+              "RelativeToolTip": "lib\\features\\auth\\presentation\\bloc\\auth_bloc.dart",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T16:37:28.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login_screen.dart",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\screens\\login_screen.dart",
+              "RelativeDocumentMoniker": "lib\\features\\auth\\presentation\\screens\\login_screen.dart",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\presentation\\screens\\login_screen.dart*",
+              "RelativeToolTip": "lib\\features\\auth\\presentation\\screens\\login_screen.dart*",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAF8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T16:36:23.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "firebase_remote_datasource.dart",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\data\\datasource\\firebase_remote_datasource.dart",
+              "RelativeDocumentMoniker": "lib\\features\\auth\\data\\datasource\\firebase_remote_datasource.dart",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\lib\\features\\auth\\data\\datasource\\firebase_remote_datasource.dart",
+              "RelativeToolTip": "lib\\features\\auth\\data\\datasource\\firebase_remote_datasource.dart",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T16:36:09.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "firebase_options.dart",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\lib\\firebase_options.dart",
+              "RelativeDocumentMoniker": "lib\\firebase_options.dart",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\lib\\firebase_options.dart",
+              "RelativeToolTip": "lib\\firebase_options.dart",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T15:45:41.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "firebase.json",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\firebase.json",
+              "RelativeDocumentMoniker": "firebase.json",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\firebase.json",
+              "RelativeToolTip": "firebase.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T15:45:33.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "analysis_options.yaml",
+              "DocumentMoniker": "C:\\myflutterprogram\\sattle_me\\analysis_options.yaml",
+              "RelativeDocumentMoniker": "analysis_options.yaml",
+              "ToolTip": "C:\\myflutterprogram\\sattle_me\\analysis_options.yaml",
+              "RelativeToolTip": "analysis_options.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-12T15:45:33.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049339323080",
+    "firebase_url": "https://loginsystem-1da96-default-rtdb.firebaseio.com",
+    "project_id": "loginsystem-1da96",
+    "storage_bucket": "loginsystem-1da96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049339323080:android:ccaa10879ce63b3c633bfd",
+        "android_client_info": {
+          "package_name": "com.example.sattle_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049339323080-divaclrou4lsrahe61672rnmargujepi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELzW864fKML_Xl9OBfCx_uckgLWd-It8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049339323080-divaclrou4lsrahe61672rnmargujepi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049339323080-44rqqdap7aktik93ev8bsgm0ihscg150.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cleanArchiFeaturesFirst"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
